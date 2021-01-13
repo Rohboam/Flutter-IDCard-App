@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+<p align="center">
+  <img src="https://github.com/Rohboam/Flutter-IDCard-App/blob/main/Demo.png" />
+</p>
+
 ![Demo Image](https://github.com/Rohboam/Flutter-IDCard-App/blob/main/Demo.png)
 
 ## Getting Started
