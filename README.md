@@ -3,7 +3,7 @@
 A new Flutter project showing a basic application structure in which user name and credentials are displayed.
 
 <p align="center">
-  <img src="https://github.com/Rohboam/Flutter-IDCard-App/blob/main/Demo.png" />
+  <img src="https://github.com/Rohboam/Flutter-IDCard-App/blob/main/Demo_2.png" />
 </p>
 
 
